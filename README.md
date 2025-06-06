@@ -10,5 +10,5 @@ Use the package manager [pip](https://pypi.org/project/pip/ ) to install MyCarDr
 
 ## Developers
 
-- **Ashrit**
+- **Ashrith**
 - *{Working individually}*
